@@ -1,2 +1,2 @@
-# Template_Hardware
-Template repository for KiCAD board hardware
+# Training Hardware
+Please follow along with the KiCAD trainings found [here](https://mailmissouri.sharepoint.com/sites/SDELC-MarsRoverDesignTeam-Ogrp/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSDELC%2DMarsRoverDesignTeam%2DOgrp%2FShared%20Documents%2F%23ROVESODRIVE%2F2027%20%28KICKFLIP%29%2F2%20%2D%20Arch%20Electrical%2FResources&viewid=222fe0bf%2D5a43%2D4286%2Daf58%2Dd0eeca5d2865&FolderCTID=0x012000D37049AE53A0094484D716DAB5E334B6)
