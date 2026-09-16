@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "6b6a7436-f8ae-40aa-b164-84f8f07656da")
+	(uuid "d2af58f2-9d72-424b-acf8-b361e0311e66")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C"
@@ -939,6 +939,12 @@
 		)
 	)
 	(junction
+		(at 114.3 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e56fc3f-10dd-4c29-94e0-3fe13df73403")
+	)
+	(junction
 		(at 165.1 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -961,18 +967,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9292fa98-2f61-42bd-a604-7869d3f7668b")
-	)
-	(junction
-		(at 114.3 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c650ef47-600a-4938-a1e9-174c37ba7b43")
-	)
-	(junction
-		(at 123.19 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d9a6813b-40de-4454-affb-8604f862b5e4")
 	)
 	(junction
 		(at 165.1 67.31)
@@ -1048,16 +1042,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 62.23) (xy 123.19 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42a29567-fa71-403b-b0b3-18bfac5590fa")
-	)
-	(wire
-		(pts
 			(xy 160.02 73.66) (xy 165.1 73.66)
 		)
 		(stroke
@@ -1085,6 +1069,16 @@
 			(type default)
 		)
 		(uuid "5496ea9f-5266-4a4e-8eb8-606e09f42df7")
+	)
+	(wire
+		(pts
+			(xy 114.3 62.23) (xy 123.19 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c61e35a-ee35-4150-b85f-cfabe7c41e3f")
 	)
 	(wire
 		(pts
@@ -1235,16 +1229,6 @@
 			(type default)
 		)
 		(uuid "f012470d-d175-439a-b2d3-b7fa02c5e948")
-	)
-	(wire
-		(pts
-			(xy 123.19 62.23) (xy 114.3 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff7e2fe2-e0c1-43f7-b52c-04687826e8f9")
 	)
 	(symbol
 		(lib_id "Regulator_Switching:AP63203WU")
