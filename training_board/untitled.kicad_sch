@@ -1077,7 +1077,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1008_2520Metric_Pad1.43x2.20mm_HandSolder"
 			(at 168.91 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -1118,10 +1118,6 @@
 		)
 		(instances
 			(project "training_board"
-				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a"
-					(reference "L1")
-					(unit 1)
-				)
 				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a/642b35e5-5dba-49d9-abbd-8da8f0279939"
 					(reference "L1")
 					(unit 1)
@@ -1163,7 +1159,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 119.0752 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -1204,10 +1200,6 @@
 		)
 		(instances
 			(project "training_board"
-				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a"
-					(reference "C1")
-					(unit 1)
-				)
 				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a/642b35e5-5dba-49d9-abbd-8da8f0279939"
 					(reference "C1")
 					(unit 1)
@@ -1286,10 +1278,6 @@
 		)
 		(instances
 			(project "training_board"
-				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a"
-					(reference "#PWR05")
-					(unit 1)
-				)
 				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a/642b35e5-5dba-49d9-abbd-8da8f0279939"
 					(reference "#PWR05")
 					(unit 1)
@@ -1382,10 +1370,6 @@
 		)
 		(instances
 			(project "training_board"
-				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a"
-					(reference "U1")
-					(unit 1)
-				)
 				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a/642b35e5-5dba-49d9-abbd-8da8f0279939"
 					(reference "U1")
 					(unit 1)
@@ -1427,7 +1411,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 182.5752 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -1468,10 +1452,6 @@
 		)
 		(instances
 			(project "training_board"
-				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a"
-					(reference "C8")
-					(unit 1)
-				)
 				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a/642b35e5-5dba-49d9-abbd-8da8f0279939"
 					(reference "C8")
 					(unit 1)
@@ -1550,10 +1530,6 @@
 		)
 		(instances
 			(project "training_board"
-				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a"
-					(reference "#PWR04")
-					(unit 1)
-				)
 				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a/642b35e5-5dba-49d9-abbd-8da8f0279939"
 					(reference "#PWR04")
 					(unit 1)
@@ -1632,10 +1608,6 @@
 		)
 		(instances
 			(project "training_board"
-				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a"
-					(reference "#PWR02")
-					(unit 1)
-				)
 				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a/642b35e5-5dba-49d9-abbd-8da8f0279939"
 					(reference "#PWR02")
 					(unit 1)
@@ -1677,7 +1649,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 157.1752 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -1718,10 +1690,6 @@
 		)
 		(instances
 			(project "training_board"
-				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a"
-					(reference "C2")
-					(unit 1)
-				)
 				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a/642b35e5-5dba-49d9-abbd-8da8f0279939"
 					(reference "C2")
 					(unit 1)
@@ -1763,7 +1731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 157.1752 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -1804,10 +1772,6 @@
 		)
 		(instances
 			(project "training_board"
-				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a"
-					(reference "C7")
-					(unit 1)
-				)
 				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a/642b35e5-5dba-49d9-abbd-8da8f0279939"
 					(reference "C7")
 					(unit 1)
@@ -1886,10 +1850,6 @@
 		)
 		(instances
 			(project "training_board"
-				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a"
-					(reference "#PWR03")
-					(unit 1)
-				)
 				(path "/c8b65c5a-76a4-40b3-a332-766a1070b56a/642b35e5-5dba-49d9-abbd-8da8f0279939"
 					(reference "#PWR03")
 					(unit 1)
