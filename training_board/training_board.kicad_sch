@@ -3508,20 +3508,150 @@
 		(uuid "5872c589-c23b-40eb-9bb4-5acf59dbd2c9")
 	)
 	(junction
-		(at 95.25 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "829c0885-7616-4c36-b15a-e911f3b3c707")
-	)
-	(junction
 		(at 149.86 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cc2482ae-866f-48b2-a27f-267ad0f7a3b6")
 	)
 	(no_connect
+		(at 160.02 55.88)
+		(uuid "034f7772-b5db-4686-ba16-5785cf996c6f")
+	)
+	(no_connect
+		(at 160.02 77.47)
+		(uuid "0960c551-3454-4c06-a84d-668b52c19324")
+	)
+	(no_connect
+		(at 184.15 46.99)
+		(uuid "0fb5af5f-2526-4e3d-986e-e2ed270487bb")
+	)
+	(no_connect
+		(at 184.15 43.18)
+		(uuid "1c1c6cec-f8ab-45d8-a571-859160cc8ee9")
+	)
+	(no_connect
+		(at 184.15 77.47)
+		(uuid "2e6e713e-3a01-4e8d-8983-199f1ba80fa8")
+	)
+	(no_connect
 		(at 251.46 138.43)
 		(uuid "356c0836-3785-49d7-a7e4-d54e77a9275e")
+	)
+	(no_connect
+		(at 184.15 49.53)
+		(uuid "36142b7a-5482-42bb-90a0-7056d1f55189")
+	)
+	(no_connect
+		(at 184.15 59.69)
+		(uuid "36786032-84e0-42d5-b01a-a1547f45e673")
+	)
+	(no_connect
+		(at 160.02 85.09)
+		(uuid "3dcf8f86-7924-4ea2-8acd-18fe62be9de9")
+	)
+	(no_connect
+		(at 160.02 36.83)
+		(uuid "41a9fc39-b89a-4b48-82a1-2a18dc3c4f91")
+	)
+	(no_connect
+		(at 160.02 46.99)
+		(uuid "48909a65-118c-47de-8dbc-cfc1ec68a9b1")
+	)
+	(no_connect
+		(at 160.02 44.45)
+		(uuid "521d6a90-5f3b-4ed9-a5c9-7883d0259df7")
+	)
+	(no_connect
+		(at 160.02 69.85)
+		(uuid "60a081c0-1be5-4839-a8a5-31c2c8ea4859")
+	)
+	(no_connect
+		(at 184.15 54.61)
+		(uuid "64e4260e-955c-499c-a36e-d61a401e7b14")
+	)
+	(no_connect
+		(at 184.15 72.39)
+		(uuid "6a003cc2-4eb8-43b1-ad08-341e1bfca2b4")
+	)
+	(no_connect
+		(at 184.15 52.07)
+		(uuid "736de6ac-078a-4b17-9da2-e00f7a65fa84")
+	)
+	(no_connect
+		(at 160.02 82.55)
+		(uuid "788361af-8f66-46a4-8b01-3559927f2b30")
+	)
+	(no_connect
+		(at 160.02 58.42)
+		(uuid "79f39a98-e9ca-4253-b539-ecf6bbd67165")
+	)
+	(no_connect
+		(at 160.02 52.07)
+		(uuid "7a401a01-b4b8-4ce3-b2e4-3b221023c7e3")
+	)
+	(no_connect
+		(at 160.02 62.23)
+		(uuid "7de9042e-58b0-4c2f-b8f0-bdfa8218c5da")
+	)
+	(no_connect
+		(at 160.02 39.37)
+		(uuid "84f5bdd5-0913-4579-917a-15e98f98e069")
+	)
+	(no_connect
+		(at 160.02 67.31)
+		(uuid "90f31c24-fe0b-4ca7-aebe-126d5231751e")
+	)
+	(no_connect
+		(at 184.15 74.93)
+		(uuid "a2c79758-fa20-4625-bbb1-566d1d3c44d1")
+	)
+	(no_connect
+		(at 184.15 57.15)
+		(uuid "a7bc0406-1fa9-4f81-88e7-e1b897d93829")
+	)
+	(no_connect
+		(at 184.15 67.31)
+		(uuid "c7b46056-aeec-4011-896f-13b852c57057")
+	)
+	(no_connect
+		(at 160.02 72.39)
+		(uuid "cfc74854-4dde-404c-8b49-dedb90822c98")
+	)
+	(no_connect
+		(at 160.02 34.29)
+		(uuid "d44364b0-1cb8-4b60-acbd-278a3363d1dd")
+	)
+	(no_connect
+		(at 160.02 49.53)
+		(uuid "dd1525d1-0c0d-4b78-8024-134811c1c764")
+	)
+	(no_connect
+		(at 160.02 64.77)
+		(uuid "df77d3f4-f23f-45c2-98b9-bddf5838f8d3")
+	)
+	(no_connect
+		(at 160.02 41.91)
+		(uuid "e749ce1e-3103-4309-b4e6-f78754371431")
+	)
+	(no_connect
+		(at 184.15 69.85)
+		(uuid "eb5f0ba3-bc7c-495b-83fc-33f4436eb6e5")
+	)
+	(no_connect
+		(at 160.02 31.75)
+		(uuid "efa64893-1c57-46b4-b752-241bcb482e4a")
+	)
+	(no_connect
+		(at 184.15 40.64)
+		(uuid "f06503f9-6e7c-43e6-965e-d6a727872330")
+	)
+	(no_connect
+		(at 160.02 80.01)
+		(uuid "fda08653-28de-455b-ba3e-7bfff323d1d0")
+	)
+	(no_connect
+		(at 160.02 74.93)
+		(uuid "fe69bc98-5782-4def-a794-6da9568afbbe")
 	)
 	(wire
 		(pts
@@ -3612,6 +3742,16 @@
 			(type default)
 		)
 		(uuid "221a3729-3f87-42c6-a9d4-04403229b574")
+	)
+	(wire
+		(pts
+			(xy 109.22 124.46) (xy 115.57 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "234dcc17-95fd-4fcb-bd7e-42455dec2b13")
 	)
 	(wire
 		(pts
@@ -3902,16 +4042,6 @@
 			(type default)
 		)
 		(uuid "9d3cf1c5-62c2-46a4-a703-3bc0fd5886e9")
-	)
-	(wire
-		(pts
-			(xy 95.25 120.65) (xy 95.25 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f706e41-538e-45c2-b375-bfbce26901e2")
 	)
 	(wire
 		(pts
@@ -4417,7 +4547,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 239.7252 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -4655,7 +4785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Array_SIP4"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 243.586 52.324 90)
 			(hide yes)
 			(show_name no)
@@ -4894,7 +5024,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Array_SIP4"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 150.876 125.984 90)
 			(hide yes)
 			(show_name no)
@@ -4976,7 +5106,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 242.57 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -5151,7 +5281,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 218.44 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -5656,7 +5786,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_RJ:RJ45_Abracon_ARJP11A-MA_Horizontal"
+		(property "Footprint" "MRDT_Connectors:RJ45_Teensy"
 			(at 244.475 128.27 90)
 			(hide yes)
 			(show_name no)
@@ -6006,7 +6136,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PHD_B10B-PHDSS_2x05_P2.00mm_Vertical"
 			(at 165.1 127 0)
 			(hide yes)
 			(show_name no)
@@ -6375,7 +6505,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Array_SIP4"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 219.456 52.324 90)
 			(hide yes)
 			(show_name no)
@@ -6692,7 +6822,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 96.2152 127 0)
 			(hide yes)
 			(show_name no)

@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "2985d276-7543-4fae-99ea-87267697e570")
+	(uuid "358d8c5f-44b8-409c-bc8e-c9c9a2cc3273")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C"
@@ -1258,7 +1258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 106.3752 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -1418,7 +1418,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 46.6852 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -1500,7 +1500,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 77.1652 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -1582,7 +1582,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 93.6752 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -1740,7 +1740,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1008_2520Metric_Pad1.43x2.20mm_HandSolder"
 			(at 88.9 43.18 0)
 			(hide yes)
 			(show_name no)
